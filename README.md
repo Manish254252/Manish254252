@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... DevOps
 - 🌱 I’m currently learning ...AWS &DevOps tools
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...mk394163@gmail.com
 
 <!---
 Manish254252/Manish254252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
