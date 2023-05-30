@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manish254252
 - 👀 I’m interested in ... DevOps
 - 🌱 I’m currently learning ...AWS &DevOps tools
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Java related Stuff
 - 📫 How to reach me ...mk394163@gmail.com
 
 <!---
